@@ -22,6 +22,16 @@ O que é um startup?
 No entanto, há uma definição mais atual, que parece satisfazer a diversos especialistas e investidores: uma startup é um grupo de pessoas à procura de um modelo de negócios repetível e escalável, trabalhando em condições de extrema incerteza.
 
 
+Uma tendência que se mostra forte para as posições ofertadas é a possibilidade de trabalho remoto. Sendo assim, candidatos de todo o Brasil podem se inscrever.
+
+Confira as empresas que estão contratando agora:
+
+QUICKO
+
+A Quicko, app de mobilidade, está com seis vagas abertas para áreas como Customer Experience e Tecnologia. As vagas são para cargos efetivos, bancos de talentos e estágios. Além disso variam no modelo de home office e presencial em São Paulo, onde a empresa está localizada. Interessados podem se candidatar no link.[Vagas]() 
+
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
