@@ -1,6 +1,6 @@
 ## Bem Vindos 
 
-###Google oferece treinamento para candidatas a vagas de emprego
+### Google oferece treinamento para candidatas a vagas de emprego
 
 
 
@@ -13,10 +13,14 @@ Depois do evento do Google, as candidatas serão direcionadas à plataforma do B
 
 
 
+Startups oferecem mais de 600 vagas de emprego para todo o Brasil!
 
 
+[Vagas em startup]() 
 
-[editor on GitHub](https://github.com/vagas-SC/Emprego/edit/main/README.md) 
+O que é um startup?
+No entanto, há uma definição mais atual, que parece satisfazer a diversos especialistas e investidores: uma startup é um grupo de pessoas à procura de um modelo de negócios repetível e escalável, trabalhando em condições de extrema incerteza.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
