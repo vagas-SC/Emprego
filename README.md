@@ -1,6 +1,22 @@
-## Bem Vindos
+## Bem Vindos 
 
-You can use the [editor on GitHub](https://github.com/vagas-SC/Emprego/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+###Google oferece treinamento para candidatas a vagas de emprego
+
+
+
+Uma nova edição do programa “Cresça com o Google para Mulheres” será aberta pela gigante das buscas nesta terça-feira (22). Realizada em parceria com a Cia de Talentos, a iniciativa oferece treinamento gratuito para mulheres em busca de emprego, conectando as participantes a possíveis vagas.
+
+Nesta edição, o projeto terá várias palestras e oficinas, abordando o enfrentamento da desigualdade no ambiente profissional. Haverá também o auxílio da Bettha, startup do grupo Cia de Talentos, que ajudará as participantes a aumentar as chances de empregabilidade.
+
+Depois do evento do Google, as candidatas serão direcionadas à plataforma do Bettha, passando por jornadas de autoconhecimento para destacar seus pontos fortes profissionais. Elas também poderão acessar o Ateliê Digital, o Primer e o Grasshopper, entre outros programas de capacitação gratuitos da big tech.
+
+
+
+
+
+
+
+[editor on GitHub](https://github.com/vagas-SC/Emprego/edit/main/README.md) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
