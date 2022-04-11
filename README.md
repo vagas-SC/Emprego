@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bem Vindos
 
 You can use the [editor on GitHub](https://github.com/vagas-SC/Emprego/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
